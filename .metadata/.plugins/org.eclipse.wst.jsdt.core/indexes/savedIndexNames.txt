@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+D:\RIRSProjekt\DrazbaRIRS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2607355449.index
+3166075214.index
+919035155.index
+3197538094.index
+14052961.index
+1641494099.index
