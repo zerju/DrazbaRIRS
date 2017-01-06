@@ -79,3 +79,9 @@ Caused by: java.net.UnknownHostException: github.com
 
 !ENTRY org.eclipse.jface.text 2 0 2017-01-06 11:05:43.165
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-01-06 11:06:55.658
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-01-06 11:06:55.659
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
