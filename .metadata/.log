@@ -73,3 +73,9 @@ Caused by: java.net.UnknownHostException: github.com
 
 !ENTRY org.eclipse.egit.ui 4 0 2017-01-06 10:54:42.708
 !MESSAGE Can't connect to any repository: https://github.com/zerju/DrazbaRIRS.git (https://github.com/zerju/DrazbaRIRS.git: cannot open git-receive-pack)
+
+!ENTRY org.eclipse.jface.text 2 0 2017-01-06 11:05:43.164
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-01-06 11:05:43.165
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
