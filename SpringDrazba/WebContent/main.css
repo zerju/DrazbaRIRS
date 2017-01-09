@@ -1,0 +1,294 @@
+@CHARSET "UTF-8";
+
+.header{
+	background-image: url("auction.jpg");
+}
+.header a {
+    display: block;
+    padding: 8px;
+    background-color: #99ccff;
+    text-decoration: none;
+    color:white;
+}
+.header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align:center;
+}
+.header li {
+    display: inline-block;
+}
+.header a:hover {
+    background-color:#0059b3;
+}
+
+.banner  {
+	font-family:"Trebuchet MS";
+	float:left;
+	font-size: 45px;
+	font-color: blue;
+	text-align: center;
+	
+}
+
+.index input[type=text] {
+    width: 50%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.index input[type=submit] {
+    
+    width:130px;
+    height:45px;
+    background-color:#99ccff;
+    color:#FFFFFF;
+    font-size:15px;
+    font-weight: bold;
+}
+
+.kategorije img{
+	margin-top:5%;
+	margin-left: 20%;
+	margin-right:5%;
+	width:404px;
+	height:328px;
+}
+
+
+.kategorije span{
+	position:relative;
+	margin-left:-20%;
+	font-size: 20px;
+	background-color:#52527a;
+	color:	 #ffffff;
+}
+
+.vpis input[type=text] {
+    width: 20%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 5%;
+}
+
+.vpis input[type=password] {
+    width: 20%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 1%;
+}
+
+.vpis input[type=submit] {
+    margin-left: 46%;
+    margin-right: 40%;
+    margin-top:2%;
+    width:130px;
+    height:45px;
+    background-color:#99ccff;
+    color:#FFFFFF;
+    font-size:15px;
+    font-weight: bold;
+}
+
+.vpis a{
+	margin-left: 40%;
+    margin-right: 40%;
+}
+
+.registracija input[type=password] {
+    width: 20%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 1%;
+}
+
+.registracija input[type=text] {
+    width: 20%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 2%;
+}
+
+.registracija input[type=submit] {
+    margin-left: 46%;
+    margin-right: 40%;
+    margin-top:2%;
+    width:130px;
+    height:45px;
+    background-color:#99ccff;
+    color:#FFFFFF;
+    font-size:15px;
+    font-weight: bold;
+}
+.registracija form{
+	margin-top:5%;
+}
+
+.dodaj input[type=text],input[type="number"] {
+    width: 20%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.dodaj input[type=datetime-local] {
+    width: 20%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.dodaj span{
+	width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top:100px;
+    font-size:20px;
+    color:#99b3ff;
+}
+
+.dodaj button {
+    margin-left: 46%;
+    margin-right: 40%;
+    margin-top:2%;
+    width:130px;
+    height:45px;
+    background-color:#99ccff;
+    color:#FFFFFF;
+    font-size:15px;
+    font-weight: bold;
+}
+
+.dodaj textarea {
+    width: 20%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.dodaj input[type=submit] {
+    margin-left: 46%;
+    margin-right: 40%;
+    margin-top:2%;
+    width:130px;
+    height:45px;
+    background-color:#99ccff;
+    color:#FFFFFF;
+    font-size:15px;
+    font-weight: bold;
+}
+
+.racun ul {
+    list-style-type: none;
+    padding: 0;
+    width: 20%;
+    margin-left:40%;
+    margin-right:40%;
+} 
+
+.racun li a {
+    display: block;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    margin-top:1%;
+    padding:10px 10px 10px 10px;
+    text-align:center;
+    text-decoration: none;
+    background-color: #99ccff;
+    color:white;
+}
+
+.racun a:hover {
+    background-color:#0059b3;
+}
+
+.mojeDrazbe img{
+	margin-top:5%;
+	margin-left:3%;
+	width:304px;
+	height:228px;
+	display:inline-block;
+}
+
+.mojeDrazbe ul{
+	display:inline-block;
+	margin-right:2%;
+	margin-top:5%;
+}
+
+.mojeDrazbe span{
+	width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top:100px;
+    font-size:50px;
+    color:#99b3ff;
+	font-family:"Trebuchet MS";
+}
+
