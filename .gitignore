@@ -63,3 +63,5 @@ SpringDrazba/.classpath
 .metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml
 *.ini
 .metadata*
+Servers*
+Servers2*
