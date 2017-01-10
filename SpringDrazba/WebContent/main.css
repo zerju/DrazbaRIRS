@@ -268,6 +268,7 @@
     background-color:#0059b3;
 }
 
+
 .mojeDrazbe img{
 	margin-top:5%;
 	margin-left:3%;
@@ -291,4 +292,8 @@
     color:#99b3ff;
 	font-family:"Trebuchet MS";
 }
-
+.mojeDrazbe .container{
+	border-bottom: 2px solid black;
+	margin-left:20%;
+	margin-right:20%;
+}

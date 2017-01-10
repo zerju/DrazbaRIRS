@@ -10,28 +10,34 @@
 <%@ include file="header.jsp" %>
 
 <div class="mojeDrazbe">
-<span>Moje dražbe</span>
+	<span>Moje dražbe</span>
+	<div class="container">
 	    <img src="placeholder.png" alt="Picture" ">
 	    <ul>
-	   <li>Ime dražbe: blabla</li>
-		<li>Ime predmeta: blabla</li>
-		<li>Trenutna cena: 20€</li>
-		<li>Čas do konca: 10:00:01</li>
+		   	<li>Ime dražbe: blabla</li>
+			<li>Ime predmeta: blabla</li>
+			<li>Trenutna cena: 20€</li>
+			<li>Čas do konca: 10:00:01</li>
 		</ul>
-		 <img src="placeholder.png" alt="Picture" ">
+	</div>
+	<div class="container">
+		<img src="placeholder.png" alt="Picture" ">
 	    <ul>
-	   <li>Ime dražbe: blabla</li>
-		<li>Ime predmeta: blabla</li>
-		<li>Trenutna cena: 20€</li>
-		<li>Čas do konca: 10:00:01</li>
+		   	<li>Ime dražbe: blabla</li>
+			<li>Ime predmeta: blabla</li>
+			<li>Trenutna cena: 20€</li>
+			<li>Čas do konca: 10:00:01</li>
 		</ul>
-		 <img src="placeholder.png" alt="Picture"">
+	</div>
+	<div class="container">
+		<img src="placeholder.png" alt="Picture"">
 	    <ul>
-	   <li>Ime dražbe: blabla</li>
-		<li>Ime predmeta: blabla</li>
-		<li>Trenutna cena: 20€</li>
-		<li>Čas do konca: 10:00:01</li>
+		   	<li>Ime dražbe: blabla</li>
+			<li>Ime predmeta: blabla</li>
+			<li>Trenutna cena: 20€</li>
+			<li>Čas do konca: 10:00:01</li>
 		</ul>
+	</div>
 		
 </div>
 </body>

@@ -13,7 +13,8 @@
 	<input type="text" name="search" placeholder="Išči dražbe..."><input type="submit" name="isci" value="Išči"/>
 </div>
 <div class="mojeDrazbe">
-	    <img src="placeholder.png" alt="Picture" ">
+	<div class="container">
+	    <img src="placeholder.png" alt="Picture">
 	    <ul>
 	   <li>Ime dražbe: blabla</li>
 	   <li>Ime prodajalca: blablabla</li>
@@ -21,22 +22,27 @@
 		<li>Trenutna cena: 20€</li>
 		<li>Čas do konca: 10:00:01</li>
 		</ul>
-		 <img src="placeholder.png" alt="Picture" ">
+	</div>
+	<div class="container">
+		<img src="placeholder.png" alt="Picture">
 	    <ul>
-	   <li>Ime dražbe: blabla</li>
-	   <li>Ime prodajalca: blablabla</li>
+	   	<li>Ime dražbe: blabla</li>
+	   	<li>Ime prodajalca: blablabla</li>
 		<li>Ime predmeta: blabla</li>
 		<li>Trenutna cena: 20€</li>
 		<li>Čas do konca: 10:00:01</li>
 		</ul>
-		 <img src="placeholder.png" alt="Picture"">
+	</div>
+	<div class="container">
+		<img src="placeholder.png" alt="Picture">
 	    <ul>
-	   <li>Ime dražbe: blabla</li>
-	   <li>Ime prodajalca: blablabla</li>
+	   	<li>Ime dražbe: blabla</li>
+	   	<li>Ime prodajalca: blablabla</li>
 		<li>Ime predmeta: blabla</li>
 		<li>Trenutna cena: 20€</li>
 		<li>Čas do konca: 10:00:01</li>
 		</ul>
+	</div>
 		
 </div>
 </body>
