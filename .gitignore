@@ -65,3 +65,7 @@ SpringDrazba/.classpath
 .metadata*
 Servers*
 Servers2*
+SpringDrazba/pom.xml
+*.settings*
+*pom.xml
+*.properties

@@ -9,7 +9,7 @@
 <body>
 <%@ include file="header.jsp" %>
 <div class="dodaj">
-	<form>
+	<form method="post" action="dodaj.jsp" commandName="dodajDrazbo">
 		<span>Ime dražbe</span>
 		<input type="text" name="imeDrazbe" placeholder="Ime Dražbe"/>
 		<span>Ime predmeta</span>
