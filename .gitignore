@@ -52,3 +52,14 @@ Servers
 *.snap
 *.xmi
 .metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+*.classpath
+SpringDrazba/.classpath
+.metadata/.plugins/org.eclipse.core.resources/.projects/SpringDrazba/.syncinfo.snap
+*.snap
+.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.markers.snap
+*.snap
+.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml
+*.ini
+.metadata*
