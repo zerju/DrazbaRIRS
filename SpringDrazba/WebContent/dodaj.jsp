@@ -23,6 +23,7 @@
 		<button name="slikaButton">Naloži slike...</button>
 		<input type="submit" name="dodajDrazbo" value="Dodaj drazbo"/>
 	</form>
+	
 </div>
 </body>
 </html>
