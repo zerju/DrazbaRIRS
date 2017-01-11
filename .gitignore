@@ -69,3 +69,5 @@ SpringDrazba/pom.xml
 *.settings*
 *pom.xml
 *.properties
+.recommenders/caches/identified-project-coordinates.json
+*.class
